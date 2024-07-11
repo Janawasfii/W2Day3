@@ -85,21 +85,19 @@ public class Main {
         genFibo(terms);}*/
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //EX1
-     /*String[] dic= {"cat","dog","red","is","am"};
+     /* String[] dic= {"cat","dog","red","is","am"};
         System.out.println("Original array: "+ Arrays.toString(dic));
         int lon = 0;
         for(String str:dic){
-            if(str.length()>lon){
-            lon = str.length();}}
+        if(str.length()>lon){
+        lon = str.length();}}
         String[] lonStr = new String[dic.length];
         int c=0;
         for(String str: dic){
         if(str.length()==lon){
-        lonStr[c++]= str;
-        }}
+        lonStr[c++]= str;}}
         for(int i=0; i<c;i++){
-                System.out.print("\""+lonStr[i]+ "\"");
-            }}}*/
+        System.out.print("\""+lonStr[i]+ "\""); }}}*/
 //EX2
        /* int[] numbers = {1, 1, 1, 3, 3, 5};
         System.out.print("Enter the element to check its occurrence: ");
